@@ -107,3 +107,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Custom ignores for One Pulse
+/[Bb]uilding/
+.idea/
+/test_player_*.png
+/thumb.png
+
+/Assets/Docs
